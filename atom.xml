@@ -35,24 +35,6 @@
   </entry>
   
   <entry>
-    <title>pdftest</title>
-    <link href="http://yoursite.com/2017/08/25/pdftest/"/>
-    <id>http://yoursite.com/2017/08/25/pdftest/</id>
-    <published>2017-08-24T19:54:46.000Z</published>
-    <updated>2019-06-05T12:45:20.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>尝试嵌入pdf文件。</p><a id="more"></a><p><a href="/pdf/non-parametric.pdf">非参数统计note</a></p><button onclick="window.open('/pdf/non-parametric.pdf')">Download</button><p><strong>参考</strong>：</p><p><a href="http://www.jialunliu.com/how-to-build-a-blog-with-hexo/" target="_blank" rel="noopener">如何使用 Hexo 部署个人博客</a></p><p><a href="http://stackoverflow.com/questions/11620698/how-to-trigger-a-file-download-when-clicking-an-html-button-or-javascript" target="_blank" rel="noopener">How to trigger a file download when clicking an html button or javascript</a></p><p><a href="https://github.com/hexojs/hexo/issues/1724" target="_blank" rel="noopener">How to provide files users can download?</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;尝试嵌入pdf文件。&lt;/p&gt;
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>hexo常用命令</title>
     <link href="http://yoursite.com/2017/08/25/hexo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
     <id>http://yoursite.com/2017/08/25/hexo常用命令/</id>
